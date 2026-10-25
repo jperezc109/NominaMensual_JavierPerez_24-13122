@@ -1,0 +1,7 @@
+# Archivos compilados de Eclipse
+/bin/
+*.class
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
